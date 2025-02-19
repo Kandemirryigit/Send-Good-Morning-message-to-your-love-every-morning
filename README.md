@@ -1,5 +1,11 @@
 # Send-Good-Morning-message-to-your-love-every-morning
 
+<h1>How Looks?</h1>
+
+![Ekran görüntüsü 2025-02-19 111456](https://github.com/user-attachments/assets/a8868654-3881-40f2-a566-a5f8b2513a4c)
+
+<hr/>
+
 <h1>How it works?</h1>
 
 -You can choose a specific time and a message and you can send this message every day to anyone.<br/>
